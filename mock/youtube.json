@@ -1,0 +1,835 @@
+{
+  "videos": {
+    "kind": "youtube#videoListResponse",
+    "etag": "YLxySir_kgJmqTJ73l3ZkBzfjFc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "OX39KNazvW0pFLmQofjbnzoFeww",
+        "id": "2CXvkGbiwbs",
+        "snippet": {
+          "publishedAt": "2021-06-19T10:38:55Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "一周年生放送！佐藤会長にご出演いただきます！！！",
+          "description": "本日森内チャンネルは無事一周年を迎えることができました。\n視聴者の方々には感謝してもしきれません。\n生放送には日本将棋連盟会長、佐藤康光九段にご出演いただけます。\n今後とも森内チャンネルをよろしくお願いします。\n\n『5五将棋』は全国の書店、玩具店およびネット書店で発売！\nAmazonへのリンクはこちら\nhttps://www.amazon.co.jp/dp/B095KDT2ZC/ref=cm_sw_r_tw_dp_1RVJ59DX0ZR615R78MC8\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "一周年生放送！佐藤会長にご出演いただきます！！！",
+            "description": "本日森内チャンネルは無事一周年を迎えることができました。\n視聴者の方々には感謝してもしきれません。\n生放送には日本将棋連盟会長、佐藤康光九段にご出演いただけます。\n今後とも森内チャンネルをよろしくお願いします。\n\n『5五将棋』は全国の書店、玩具店およびネット書店で発売！\nAmazonへのリンクはこちら\nhttps://www.amazon.co.jp/dp/B095KDT2ZC/ref=cm_sw_r_tw_dp_1RVJ59DX0ZR615R78MC8\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "96750",
+          "likeCount": "2826",
+          "dislikeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "53"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3-mrO49xm_R0oKQajl77UwDEDwU",
+        "id": "DQ5IquyRCNI",
+        "snippet": {
+          "publishedAt": "2021-06-18T09:00:05Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "【大事なお知らせ】大型企画発表！これからの森内チャンネル",
+          "description": "6月19日で1周年を迎え、2年目がスタートする森内チャンネル。\n今までに増して魅力あるコンテンツをお届けできるよう、様々な企画を考えております。\n\n7月には、AI解析による将棋企画をお届けする予定です。\nまた、これからの森内チャンネルの投稿についてのお知らせもありますので、\n明日の一周年記念の豪華ゲスト発表と併せて最後までご覧下さい。\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "【大事なお知らせ】大型企画発表！これからの森内チャンネル",
+            "description": "6月19日で1周年を迎え、2年目がスタートする森内チャンネル。\n今までに増して魅力あるコンテンツをお届けできるよう、様々な企画を考えております。\n\n7月には、AI解析による将棋企画をお届けする予定です。\nまた、これからの森内チャンネルの投稿についてのお知らせもありますので、\n明日の一周年記念の豪華ゲスト発表と併せて最後までご覧下さい。\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "20581",
+          "likeCount": "847",
+          "dislikeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "64"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Wpjw00KEo_iYac_fwSVSnx5_usY",
+        "id": "2dldq7XQdIo",
+        "snippet": {
+          "publishedAt": "2021-06-15T09:00:00Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "森内・環那の本音炸裂！『環那タイトル戦への道』一年の振返り",
+          "description": "森内チャンネルの人気コーナー『環那タイトル戦への道』一年間を振り返りました。\n鈴木環那女流の最近の成績は目を見張るものがあります。\n一年間の本番組の中でどんな思いで、どのように勉強に取り組み、\nまた好転機はなんだったのか？\nお互いの本音をじっくりとお話し致しました。鈴木女流への私の夢も語っております。\n\n是非最後までご覧ください。\n\n🎂森内チャンネル一周年記念🎂\n　 生配信・豪華ゲスト登場！\n     2021年6月19日（土）17:30～19:30\n     お見逃しなく！\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2dldq7XQdIo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2dldq7XQdIo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2dldq7XQdIo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "森内・環那の本音炸裂！『環那タイトル戦への道』一年の振返り",
+            "description": "森内チャンネルの人気コーナー『環那タイトル戦への道』一年間を振り返りました。\n鈴木環那女流の最近の成績は目を見張るものがあります。\n一年間の本番組の中でどんな思いで、どのように勉強に取り組み、\nまた好転機はなんだったのか？\nお互いの本音をじっくりとお話し致しました。鈴木女流への私の夢も語っております。\n\n是非最後までご覧ください。\n\n🎂森内チャンネル一周年記念🎂\n　 生配信・豪華ゲスト登場！\n     2021年6月19日（土）17:30～19:30\n     お見逃しなく！\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "26197",
+          "likeCount": "1073",
+          "dislikeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "124"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7HeQxrA5_ubMCXC2cXnco1snyDY",
+        "id": "TQIMixQyKIA",
+        "snippet": {
+          "publishedAt": "2021-06-11T09:00:10Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "すべてはこの門から始まった！１周年記念・生配信告知",
+          "description": "昨年、オープニング動画を撮ってから早1年が経ちました。\nいつも撮影場所をお借りしているお寺は紫陽花の名所ということもあり\n見頃を迎えた境内を散策いたしました。\nそして、1周年のスペシャル企画のお知らせも致します。\nどうぞ最後まで、ご覧下さい。\n \n※長尾山　妙楽寺／あじさい祭り告知\nhttp://tamaku-kanko.net/?p=2580\n \n※森内チャンネル１周年スペシャル企画\n2021年6月19日（土）17:30～19:30　YouTube生放送予定\n \n ◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "すべてはこの門から始まった！１周年記念・生配信告知",
+            "description": "昨年、オープニング動画を撮ってから早1年が経ちました。\nいつも撮影場所をお借りしているお寺は紫陽花の名所ということもあり\n見頃を迎えた境内を散策いたしました。\nそして、1周年のスペシャル企画のお知らせも致します。\nどうぞ最後まで、ご覧下さい。\n \n※長尾山　妙楽寺／あじさい祭り告知\nhttp://tamaku-kanko.net/?p=2580\n \n※森内チャンネル１周年スペシャル企画\n2021年6月19日（土）17:30～19:30　YouTube生放送予定\n \n ◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "14013",
+          "likeCount": "692",
+          "dislikeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "99"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bbMw4s825O_UCCU6D2slEKGSUXg",
+        "id": "g3oypjsFC_Q",
+        "snippet": {
+          "publishedAt": "2021-06-08T09:00:14Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "森内熱望企画！寿司クイズ対決！食事券を獲得するのはどっちだ！？",
+          "description": "すしざんまい企画の中で、どうしてもやってみたかった「寿司クイズ」。\n鈴木女流と里見咲女流に、森内作問クイズを出題いたしました。\nお腹いっぱいの後の居残り感が否めませんが…。\n5問先取の早押しクイズです。どうぞ皆様もご一緒にお考え下さい。\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g3oypjsFC_Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g3oypjsFC_Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g3oypjsFC_Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "森内熱望企画！寿司クイズ対決！食事券を獲得するのはどっちだ！？",
+            "description": "すしざんまい企画の中で、どうしてもやってみたかった「寿司クイズ」。\n鈴木女流と里見咲女流に、森内作問クイズを出題いたしました。\nお腹いっぱいの後の居残り感が否めませんが…。\n5問先取の早押しクイズです。どうぞ皆様もご一緒にお考え下さい。\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "13039",
+          "likeCount": "537",
+          "dislikeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "42"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZZgKRhimvDOw8SvBN9kcUUrB8cs",
+        "id": "2WK2PRrUbeg",
+        "snippet": {
+          "publishedAt": "2021-06-04T09:00:00Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "すしざんまい100貫挑戦！絶賛の美味さと驚きの食べっぷり！",
+          "description": "森内チャンネル100回記念で、すしざんまいにお邪魔し、寿司100貫を\nゲストの里見咲紀女流と3名で食べ続ける⁉様子をお届けいたします。\nすしざんまいのお寿司、本当においしかったです。\nどのくらいの時間で100貫を食べきることができたか！？\n是非最後までご覧下さい。\n \n🍣すしざんまい公式HP＆YouTubeアドレス\nhttps://www.kiyomura.co.jp/\nhttps://www.youtube.com/channel/UCRbZZtjOotlAkRvBlIwBoTw\n \n🍣里見咲紀　YouTubeアドレス\nhttps://www.youtube.com/channel/UC0xu48vNCF3fpQx2xEDP-FA\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2WK2PRrUbeg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2WK2PRrUbeg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2WK2PRrUbeg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "すしざんまい100貫挑戦！絶賛の美味さと驚きの食べっぷり！",
+            "description": "森内チャンネル100回記念で、すしざんまいにお邪魔し、寿司100貫を\nゲストの里見咲紀女流と3名で食べ続ける⁉様子をお届けいたします。\nすしざんまいのお寿司、本当においしかったです。\nどのくらいの時間で100貫を食べきることができたか！？\n是非最後までご覧下さい。\n \n🍣すしざんまい公式HP＆YouTubeアドレス\nhttps://www.kiyomura.co.jp/\nhttps://www.youtube.com/channel/UCRbZZtjOotlAkRvBlIwBoTw\n \n🍣里見咲紀　YouTubeアドレス\nhttps://www.youtube.com/channel/UC0xu48vNCF3fpQx2xEDP-FA\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "50829",
+          "likeCount": "1531",
+          "dislikeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "181"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gUpIQACf55Q6pktJAroig-rtN8o",
+        "id": "i30U1lg8OYQ",
+        "snippet": {
+          "publishedAt": "2021-06-01T09:00:12Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "100回記念スペシャル～‼ 森内感激のゲスト登場！",
+          "description": "皆さまのおかげで100回配信を迎えられました。\n動画をご覧いただいている皆さま、\nチャンネル登録をして下さっている皆さま、\nコメントや高評価を入れて下さった皆さま、\n本当に本当にありがとうございます。\n今後とも「森内チャンネル」をどうぞよろしくお願い致します。\n \n記念すべき100回は今年の森内の目標でもありました、\n「すしざんまい」ロケとなりました！\n100貫挑戦の前に素晴らしいゲストが登場致します。\n是非最後までご覧下さい。\n\n🍣つきじ喜代村　すしざんまい🍣\n公式サイト\nhttps://www.kiyomura.co.jp/\nTwitter公式アカウント\nhttps://twitter.com/zanmai_man\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "100回記念スペシャル～‼ 森内感激のゲスト登場！",
+            "description": "皆さまのおかげで100回配信を迎えられました。\n動画をご覧いただいている皆さま、\nチャンネル登録をして下さっている皆さま、\nコメントや高評価を入れて下さった皆さま、\n本当に本当にありがとうございます。\n今後とも「森内チャンネル」をどうぞよろしくお願い致します。\n \n記念すべき100回は今年の森内の目標でもありました、\n「すしざんまい」ロケとなりました！\n100貫挑戦の前に素晴らしいゲストが登場致します。\n是非最後までご覧下さい。\n\n🍣つきじ喜代村　すしざんまい🍣\n公式サイト\nhttps://www.kiyomura.co.jp/\nTwitter公式アカウント\nhttps://twitter.com/zanmai_man\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "41192",
+          "likeCount": "1589",
+          "dislikeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "134"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qoB8E-0Va2rr4FZ_oSW12pSTfFs",
+        "id": "YAL1GkWrrRM",
+        "snippet": {
+          "publishedAt": "2021-05-28T09:00:29Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "♯99まさかの100回記念企画発表‼！",
+          "description": "次回、「森内チャンネル」は節目の配信100回目を迎えることとなりました。\n皆様のご声援・ご視聴のおかげと、心より感謝申し上げます。\n本当にありがとうございます。\n \nそして、今回は里見咲紀女流をゲストに迎え、その100回記念企画の会議を3人で行いました。\nその模様をお届けいたします。どんな企画となったでしょうか？最後までご覧下さい。\n \n里見咲紀女流初段　YouTubeチャンネル　さとみさき\nhttps://www.youtube.com/channel/UC0xu48vNCF3fpQx2xEDP-FA\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YAL1GkWrrRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YAL1GkWrrRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YAL1GkWrrRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "♯99まさかの100回記念企画発表‼！",
+            "description": "次回、「森内チャンネル」は節目の配信100回目を迎えることとなりました。\n皆様のご声援・ご視聴のおかげと、心より感謝申し上げます。\n本当にありがとうございます。\n \nそして、今回は里見咲紀女流をゲストに迎え、その100回記念企画の会議を3人で行いました。\nその模様をお届けいたします。どんな企画となったでしょうか？最後までご覧下さい。\n \n里見咲紀女流初段　YouTubeチャンネル　さとみさき\nhttps://www.youtube.com/channel/UC0xu48vNCF3fpQx2xEDP-FA\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "32368",
+          "likeCount": "1144",
+          "dislikeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "89"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mjk1jsDkWMlfnu-UEbK9fX84Qf4",
+        "id": "leFc2zAH36g",
+        "snippet": {
+          "publishedAt": "2021-05-25T09:00:30Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "強気の勝ち宣言!?「環那タイトル戦への道」振り返り",
+          "description": "「環那タイトル戦への道」自戦振り返り編です。\n第48期　岡田美術館杯女流名人戦の加藤桃子女流三段との一戦。\n実は先日の収録の時に、環那さんが「この対局勝ちます！」と宣言されておりました。\nその注目の一戦を振り返ります。\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/leFc2zAH36g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/leFc2zAH36g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/leFc2zAH36g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "強気の勝ち宣言!?「環那タイトル戦への道」振り返り",
+            "description": "「環那タイトル戦への道」自戦振り返り編です。\n第48期　岡田美術館杯女流名人戦の加藤桃子女流三段との一戦。\n実は先日の収録の時に、環那さんが「この対局勝ちます！」と宣言されておりました。\nその注目の一戦を振り返ります。\n\n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "36929",
+          "likeCount": "981",
+          "dislikeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "77"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JdiLUj4fxn86VdHc0fox68BxTLc",
+        "id": "r3VvZOqTIj4",
+        "snippet": {
+          "publishedAt": "2021-05-21T09:00:20Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "衝撃の決着！！片上VS森内　ギャモン王者はどっちだ？",
+          "description": "前回からの続きです。\nバックギャモン塞王のタイトル保持している、片上大輔七段とのギャモン対決　後編です。\n今回のチャンネル企画で行われたのは下記のレアなルール\n①5ポイントマッチの勝敗\n②マッチ全体のパフォーマンスレーティング（PR）\n③ダウト勝負\nの3部問で争い、2部問以上制した方が勝者となります。\n \nさて、決着は如何に？どうぞ最後までご覧下さい。\n \n◆前回の対戦模様はこちらの動画から\n↓↓\n片上VS森内　将棋界・バックギャモン頂上対決！！\nhttps://www.youtube.com/watch?v=SPoNd1sA_Mo&t=13s\n◆バックギャモンの基本ルールをおさらいしたい方はこちらの動画から\n↓ ↓ ↓\n森内チャンネル♯6【ボードゲーム企画第一弾！！バックギャモン王位による入門編】\nhttps://youtu.be/RY5OoVI2vMo\n \n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r3VvZOqTIj4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r3VvZOqTIj4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r3VvZOqTIj4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "衝撃の決着！！片上VS森内　ギャモン王者はどっちだ？",
+            "description": "前回からの続きです。\nバックギャモン塞王のタイトル保持している、片上大輔七段とのギャモン対決　後編です。\n今回のチャンネル企画で行われたのは下記のレアなルール\n①5ポイントマッチの勝敗\n②マッチ全体のパフォーマンスレーティング（PR）\n③ダウト勝負\nの3部問で争い、2部問以上制した方が勝者となります。\n \nさて、決着は如何に？どうぞ最後までご覧下さい。\n \n◆前回の対戦模様はこちらの動画から\n↓↓\n片上VS森内　将棋界・バックギャモン頂上対決！！\nhttps://www.youtube.com/watch?v=SPoNd1sA_Mo&t=13s\n◆バックギャモンの基本ルールをおさらいしたい方はこちらの動画から\n↓ ↓ ↓\n森内チャンネル♯6【ボードゲーム企画第一弾！！バックギャモン王位による入門編】\nhttps://youtu.be/RY5OoVI2vMo\n \n◆森内チャンネルTwitterアカウント\nhttps://twitter.com/moriuchi_ch\n\n使用したBGM\nDEAF KEV - Invincible [NCS Release]\nリンクhttps://youtu.be/J2X5mJ3HDYE"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "10783",
+          "likeCount": "218",
+          "dislikeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "28"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 10,
+      "resultsPerPage": 10
+    }
+  },
+  "search": {
+    "pageToken": "",
+    "kind": "youtube#searchListResponse",
+    "etag": "wkbeEVUDUPugseeC8kDyzdTcAj4",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "JP",
+    "pageInfo": {
+      "totalResults": 107,
+      "resultsPerPage": 10
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0iB15i4r5X8jyaXZ4INWWBkltbU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2CXvkGbiwbs"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-19T10:38:55Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "一周年生放送！佐藤会長にご出演いただきます！！！",
+          "description": "本日森内チャンネルは無事一周年を迎えることができました。 視聴者の方々には感謝してもしきれません。 生放送には日本将棋連盟会長、佐藤康光九段にご出演いただけ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2CXvkGbiwbs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-19T10:38:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j4SpAzS9APTAMXCY7MWj3vegpZ8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DQ5IquyRCNI"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-18T09:00:05Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "【大事なお知らせ】大型企画発表！これからの森内チャンネル",
+          "description": "6月19日で1周年を迎え、2年目がスタートする森内チャンネル。 今までに増して魅力あるコンテンツをお届けできるよう、様々な企画を考えております。 7月には、AI解析による ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DQ5IquyRCNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-18T09:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mfgahmcvdIA32UP1OMftm9L48Nc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2dldq7XQdIo"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-15T09:00:00Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "森内・環那の本音炸裂！『環那タイトル戦への道』一年の振返り",
+          "description": "森内チャンネルの人気コーナー『環那タイトル戦への道』一年間を振り返りました。 鈴木環那女流の最近の成績は目を見張るものがあります。 一年間の本番組の中でどんな ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2dldq7XQdIo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2dldq7XQdIo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2dldq7XQdIo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-15T09:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4gmY325WjE5xDEWafNeERMtllHA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TQIMixQyKIA"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-11T09:00:10Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "すべてはこの門から始まった！１周年記念・生配信告知",
+          "description": "昨年、オープニング動画を撮ってから早1年が経ちました。 いつも撮影場所をお借りしているお寺は紫陽花の名所ということもあり 見頃を迎えた境内を散策いたしました。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TQIMixQyKIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-11T09:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_8CklU2j2SVAUZltjAtS9myYVAc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g3oypjsFC_Q"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-08T09:00:14Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "森内熱望企画！寿司クイズ対決！食事券を獲得するのはどっちだ！？",
+          "description": "すしざんまい企画の中で、どうしてもやってみたかった「寿司クイズ」。 鈴木女流と里見咲女流に、森内作問クイズを出題いたしました。 お腹いっぱいの後の居残り感が否め ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g3oypjsFC_Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g3oypjsFC_Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g3oypjsFC_Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-08T09:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qm5dp4cLDZDBNRzgsG_EByFQx6Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2WK2PRrUbeg"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-04T09:00:00Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "すしざんまい100貫挑戦！絶賛の美味さと驚きの食べっぷり！",
+          "description": "森内チャンネル100回記念で、すしざんまいにお邪魔し、寿司100貫を ゲストの里見咲紀女流と3名で食べ続ける⁉様子をお届けいたします。 すしざんまいのお寿司、本当に ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2WK2PRrUbeg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2WK2PRrUbeg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2WK2PRrUbeg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-04T09:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oAyMET0iv2gVI-5ENLctaWYhzb0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i30U1lg8OYQ"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-01T09:00:12Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "100回記念スペシャル～‼ 森内感激のゲスト登場！",
+          "description": "皆さまのおかげで100回配信を迎えられました。 動画をご覧いただいている皆さま、 チャンネル登録をして下さっている皆さま、 コメントや高評価を入れて下さった皆さま、 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i30U1lg8OYQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-01T09:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P7JEvEl5-VeYpzB3EZ8MkLW7Sdc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YAL1GkWrrRM"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-28T09:00:29Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "♯99まさかの100回記念企画発表‼！",
+          "description": "次回、「森内チャンネル」は節目の配信100回目を迎えることとなりました。 皆様のご声援・ご視聴のおかげと、心より感謝申し上げます。 本当にありがとうございます。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YAL1GkWrrRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YAL1GkWrrRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YAL1GkWrrRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-28T09:00:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "foNsFIcGJQqT9TAPc3KRAQPiFTc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "leFc2zAH36g"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-25T09:00:30Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "強気の勝ち宣言!?「環那タイトル戦への道」振り返り",
+          "description": "「環那タイトル戦への道」自戦振り返り編です。 第48期 岡田美術館杯女流名人戦の加藤桃子女流三段との一戦。 実は先日の収録の時に、環那さんが「この対局勝ちます！",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/leFc2zAH36g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/leFc2zAH36g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/leFc2zAH36g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-25T09:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MG6KuoqcrMBsLd04zBzOHvxjkTQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r3VvZOqTIj4"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-21T09:00:20Z",
+          "channelId": "UCAwDrM75UAddwluabae4A6g",
+          "title": "衝撃の決着！！片上VS森内　ギャモン王者はどっちだ？",
+          "description": "前回からの続きです。 バックギャモン塞王のタイトル保持している、片上大輔七段とのギャモン対決 後編です。 今回のチャンネル企画で行われたのは下記のレアなルール ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r3VvZOqTIj4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r3VvZOqTIj4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r3VvZOqTIj4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "森内俊之の森内チャンネル",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-21T09:00:20Z"
+        }
+      }
+    ]
+  }
+}
