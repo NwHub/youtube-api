@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "format": "prettier --write .",
+    "json-server": "json-server --watch mock/youtube.json"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3",
+    "prettier": "^2.3.2"
+  }
+}
