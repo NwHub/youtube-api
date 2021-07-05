@@ -1,7 +1,7 @@
 {
   "scripts": {
     "format": "prettier --write .",
-    "json-server": "json-server --watch mock/youtube.json"
+    "json-server": "json-server --watch mock/db.json"
   },
   "devDependencies": {
     "json-server": "^0.16.3",

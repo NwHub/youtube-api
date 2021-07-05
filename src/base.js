@@ -1,4 +1,5 @@
-const axios = require("axios");
+// const axios = require("axios");
+import axios from "axios";
 
 // YouTube Apiの取得件数 0〜50
 const MAX_SEARCH = 10;
