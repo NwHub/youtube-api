@@ -1,4 +1,5 @@
 const axios = require("axios");
+const youTubeApi = require("./repository/youtube.js");
 
 // YouTube Apiの取得件数 0〜50
 const MAX_SEARCH = 10;
@@ -10,7 +11,7 @@ const BASE_URL = "https://www.googleapis.com/youtube/v3";
 // const BASE_URL = "http://localhost:3000";
 
 // YouTube API KEY
-// const KEY = "AIzaSyBSikAMN12xdJYKo5ehLIwZ8aHJarao9qI";
+// const KEY = "6oistizS";
 const KEY = "AIzaSyAlK6jX7vh3uAaV2M0E_mncRt85fx5ote0";
 
 // 返却値
@@ -23,22 +24,22 @@ const KEY = "AIzaSyAlK6jX7vh3uAaV2M0E_mncRt85fx5ote0";
 //   liveBroadcastContent: "none",
 //   他省略
 // }
-async function getVideoInfo(videoId) {
-  try {
-    const response = await axios.get(`${BASE_URL}/videos`, {
-      params: {
-        key: KEY,
-        id: videoId,
-        part: "snippet",
-        maxResults: 1,
-      },
-    });
-    // console.log(JSON.stringify(response.data, null, 2));
-    return response.data.items[0].snippet;
-  } catch (error) {
-    console.log(error);
-  }
-}
+// exports const getVideoInfo = async function getVideoInfo(videoId) {
+//   try {
+//     const response = await axios.get(`${BASE_URL}/videos`, {
+//       params: {
+//         key: KEY,
+//         id: videoId,
+//         part: "snippet",
+//         maxResults: 1,
+//       },
+//     });
+//     // console.log(JSON.stringify(response.data, null, 2));
+//     return response.data.items[0].snippet;
+//   } catch (error) {
+//     console.log(error);
+//   }
+// }
 
 // [
 //   ['2CXvkGbiwbs','DQ5IquyRCNI'],
@@ -136,7 +137,7 @@ async function getVideoInfoList(videoIdMultiList) {
 async function main() {
   const videoId = "2dldq7XQdIo";
 
-  const videoInfo = await getVideoInfo(videoId);
+  const videoInfo = await youTubeApi.getChannelInfo(videoId);
   // console.log(videoInfo);
 
   const videoIdMultiList = await getVideoIdMultiList(videoInfo.channelId);
