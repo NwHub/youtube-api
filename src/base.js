@@ -151,7 +151,7 @@ async function main() {
   //     channelId: 'UCAwDrM75UAddwluabae4A6g',
   //     channelTitle: '森内俊之の森内チャンネル'
   //   },
-  //   videoDataList: [
+  //   videoInfoList: [
   //     {
   //       viewCount: '96756',
   //       likeCount: '2826',
@@ -169,7 +169,7 @@ async function main() {
       channelId: videoInfo.channelId,
       channelTitle: videoInfo.channelTitle,
     },
-    videoDataList: videoInfoList,
+    videoInfoList: videoInfoList,
   };
   console.log(youTubeInfo);
 
