@@ -12,7 +12,7 @@ exports.getChannelInfo = async function (videoId) {
 exports.getVideoInfoList = async function (channelId) {
   const videoDataList = await youTubeApi.getVideoDataList(channelId);
 
-  let videoInfoList;
+  let videoInfoList = [];
   for (videoData of videoDataList) {
     const videoInfo = {
       viewCount: videoData.statistics.viewCount,

@@ -1,9 +1,11 @@
-const youTubeService = require("./service/YouTubeService.js");
+const youTubeService = require("./service/YouTubeService");
 
 async function getYouTube(videoId) {
+  // チャンネル情報取得
   const channelInfo = await youTubeService.getChannelInfo(videoId);
 
   const channelId = channelInfo.channelId;
+  // 動画情報リスト取得
   const videoInfoList = await youTubeService.getVideoInfoList(channelId);
 
   const youTubeInfo = {
@@ -11,8 +13,7 @@ async function getYouTube(videoId) {
     videoInfoList: videoInfoList,
   };
   console.log(youTubeInfo);
-
-  // console.log(JSON.stringify(await getVideoIdList(channelId), null, 2));
+  return youTubeInfo;
 }
 
 const videoId = "2dldq7XQdIo";
