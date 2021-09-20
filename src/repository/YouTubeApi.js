@@ -6,8 +6,8 @@ const MAX_SEARCH = 5;
 // const MAX_VIDEO_COUNT = 20;
 
 // YouTube APIのベースURL
-const BASE_URL = "https://www.googleapis.com/youtube/v3";
-// const BASE_URL = "http://localhost:3000";
+// const BASE_URL = "https://www.googleapis.com/youtube/v3";
+const BASE_URL = "http://localhost:3000";
 
 // YouTube API KEY ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 const KEY = "AIzaSyBSikAMN12xdJYKo5ehLIwZ8aHJarao9qI";
@@ -39,6 +39,7 @@ exports.getVideoInfo = async function (videoId) {
   }
 };
 
+// 返却値
 // [
 //   {
 //     id: 'Neo78dctN8I',

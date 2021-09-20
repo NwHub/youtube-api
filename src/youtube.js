@@ -12,7 +12,7 @@ async function getYouTube(videoId) {
     channelInfo: channelInfo,
     videoInfoList: videoInfoList,
   };
-  console.log(youTubeInfo);
+  // console.log(youTubeInfo);
   return youTubeInfo;
 }
 
